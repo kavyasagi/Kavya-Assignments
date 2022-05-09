@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-First web page
+First html program
 </title>
 </head>
 This is my first html program
