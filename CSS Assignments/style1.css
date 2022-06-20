@@ -1,0 +1,10 @@
+.parent{
+    background: rgb(98, 161, 232);
+    position: relative;
+}
+div{
+    background: rgb(150, 143, 143);
+}
+p{
+    background: rgb(156, 240, 237);
+}

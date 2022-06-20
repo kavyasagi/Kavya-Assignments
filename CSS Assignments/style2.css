@@ -1,0 +1,10 @@
+h2{
+    text-decoration: line-through;
+}
+h3{
+    text-decoration: underline;
+}
+div{
+    border: 1px solid black;
+    background-color: rgb(201, 231, 243);
+}
